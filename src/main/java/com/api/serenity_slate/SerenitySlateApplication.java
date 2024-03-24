@@ -1,13 +1,13 @@
-package com.api.serenity_tile;
+package com.api.serenity_slate;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class SerenityTileApplication {
+public class SerenitySlateApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(SerenityTileApplication.class, args);
+		SpringApplication.run(SerenitySlateApplication.class, args);
 	}
 
 }

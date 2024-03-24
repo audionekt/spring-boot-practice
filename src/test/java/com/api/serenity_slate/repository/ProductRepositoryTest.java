@@ -1,6 +1,6 @@
-package com.api.serenity_tile.repository;
+package com.api.serenity_slate.repository;
 
-import com.api.serenity_tile.model.Product;
+import com.api.serenity_slate.model.Product;
 import io.restassured.RestAssured;
 import io.restassured.http.ContentType;
 import org.junit.jupiter.api.AfterAll;

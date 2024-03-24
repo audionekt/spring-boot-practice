@@ -1,4 +1,4 @@
-package com.api.serenity_tile.model;
+package com.api.serenity_slate.model;
 
 import jakarta.persistence.*;
 import lombok.*;

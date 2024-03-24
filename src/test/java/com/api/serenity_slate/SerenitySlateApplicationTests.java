@@ -1,10 +1,10 @@
-package com.api.serenity_tile;
+package com.api.serenity_slate;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class SerenityTileApplicationTests {
+class SerenitySlateApplicationTests {
 
 	@Test
 	void contextLoads() {

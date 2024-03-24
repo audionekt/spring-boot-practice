@@ -1,9 +1,9 @@
-package com.api.serenity_tile.controller;
+package com.api.serenity_slate.controller;
 
-import com.api.serenity_tile.model.Category;
-import com.api.serenity_tile.model.Product;
-import com.api.serenity_tile.repository.CategoryRepository;
-import com.api.serenity_tile.repository.ProductRepository;
+import com.api.serenity_slate.model.Category;
+import com.api.serenity_slate.model.Product;
+import com.api.serenity_slate.repository.CategoryRepository;
+import com.api.serenity_slate.repository.ProductRepository;
 import jakarta.persistence.EntityNotFoundException;
 import org.jetbrains.annotations.NotNull;
 import org.springframework.beans.factory.annotation.Autowired;
